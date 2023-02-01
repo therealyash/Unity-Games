@@ -5,6 +5,7 @@ Mr. Anderson lost his eyes recently. He likes to wander everywhere and doesn't s
 He has a husky who loves him and takes care of him in every situation. We need to help Mr. Anderson before he falls of a cliff, 
 steps on something dangerous or does something crazy!
 
+Official Link - https://theweeklyjammer.itch.io/huskys-adventure
 Development - Vlog https://youtu.be/Fqidzn7GfWU
 
 ![qCiBM6](https://user-images.githubusercontent.com/114616305/216027828-b2d20f46-0a5d-4cd7-9967-ef7c7afb2482.jpg)
