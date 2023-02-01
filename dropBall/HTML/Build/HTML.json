@@ -1,0 +1,14 @@
+{
+"companyName": "PolygonStudios",
+"productName": "Minimal Platformer",
+"dataUrl": "HTML.data.unityweb",
+"asmCodeUrl": "HTML.asm.code.unityweb",
+"asmMemoryUrl": "HTML.asm.memory.unityweb",
+"asmFrameworkUrl": "HTML.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "HTML.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
